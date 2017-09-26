@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "robot-arm-dc-motor.ino",
+    "port": "/dev/cu.usbmodem14511"
+}
